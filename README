@@ -1,0 +1,9 @@
+Automatically authenticate with gribble for #bitcoin-otd. 
+You must have gpg-agent set up, and have the correct gpg key set as default.
+
+Usage:
+1) Load script -- put it in your .xchat2 directory, or do 
+	/py load <path to gpg.py>
+2) Log into FreeNode
+3) Type /gauth
+4) Watch and enjoy. :)
